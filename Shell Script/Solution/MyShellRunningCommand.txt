@@ -1,0 +1,1 @@
+env -i  ./script.sh "/home/shukti/Documents/working_dir" input.txt
